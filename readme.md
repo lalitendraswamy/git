@@ -271,7 +271,7 @@ $ git clone https://github.com/vivekduttamishra/thelostepic thefoundepic
 
 ### 2.1 If the cloned repository is a third party repository and you are using it only as inital code base
 
-You need to push these content to your own repository
+You need to push these content to your own repository.
 
 #### Step 1. Remove **.git** folder from the folder
 #### Step 2. Connect the folder to your repository using steps described in **1. Starting a new Repository** 
