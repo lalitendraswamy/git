@@ -146,7 +146,7 @@ $git add .
 
 There are two ways to achieve this. 
 
-1. Delete the files physically from the folder and on next **add .** the files would be removed from the repository.
+1. Delete the files physically from the folder and on next **add .** the files would be removed from the repository
     * Note this would actually delete the file
 
 1. Remove the file from repository but not physically from the disk
